@@ -3,9 +3,7 @@
     'name': "onboarding",
 
     'summary': """
-
         onboarding ClubCBC members""",
-""",
 
 
     'description': """
