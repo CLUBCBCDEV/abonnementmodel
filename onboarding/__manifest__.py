@@ -6,7 +6,7 @@
         onboarding ClubCBC members""",
 
     'description': """
-        Long description of module's purpose
+        onboarding ClubCBC members for CRM purposes
     """,
 
     'author': "My Company",
