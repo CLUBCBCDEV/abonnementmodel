@@ -5,11 +5,14 @@
     'summary': """
         onboarding ClubCBC members""",
 
+
     'description': """
         onboarding ClubCBC members for CRM purposes
     """,
 
-    'author': "My Company",
+
+    'author': "ClubCBC Developper",
+
     'website': "http://www.yourcompany.com",
 
     # Categories can be used to filter modules in modules listing
