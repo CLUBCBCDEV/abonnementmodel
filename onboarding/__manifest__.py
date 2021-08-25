@@ -3,13 +3,16 @@
     'name': "onboarding",
 
     'summary': """
-        onboarding CBC members""",
+        onboarding ClubCBC members""",
+
 
     'description': """
-        Long description of module's purpose
+        onboarding ClubCBC members for CRM purposes
     """,
 
+
     'author': "ClubCBC Developper",
+
     'website': "http://www.yourcompany.com",
 
     # Categories can be used to filter modules in modules listing
